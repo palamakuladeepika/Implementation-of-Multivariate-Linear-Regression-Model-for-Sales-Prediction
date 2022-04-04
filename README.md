@@ -48,7 +48,7 @@ l.predict([[150.3,240.5,234.5]])
 ```
 
 ## Output:
-![multivariate linear regression model for sales prediction](Deepu.png)
+![multivariate linear regression model for sales prediction](deepu.png)
 
 
 ## Result:
